@@ -5,25 +5,27 @@ Hey there! 👋 I'm Zainab.
 Welcome to my corner of GitHub! I'm on an exciting journey to becoming a Cloud Engineer, and this is where I showcase the skills, projects, and knowledge I've been building along the way. My passion for cloud technology began in 2023, right after I earned my bachelor's degree. Since then, I've been diving deep into the world of AWS and DevOps, learning, experimenting, and growing every step of the way.
 
 🚀 A Little About Me
-    Cloud Explorer: My adventure started with AWS, where I’ve been learning how to design and implement cloud solutions that are scalable, secure, and efficient.
+•	Cloud Explorer: My adventure started with AWS, where I’ve been learning how to design and implement cloud solutions that are scalable, secure, and efficient.
 
-    Hands-On Experience: I’ve rolled up my sleeves and gotten practical experience with services like EC2, S3, Lambda, and CloudFormation, while also automating workflows using Azure DevOps.
+•	Hands-On Experience: I’ve rolled up my sleeves and gotten practical experience with services like EC2, S3, Lambda, and CloudFormation, while also automating workflows using Azure DevOps.
 
-    Always Learning: I’m actively pursuing certifications to back up my skills.
+•	Always Learning: I’m actively pursuing certifications to back up my skills.
 
-    Problem-Solver in Training: I thrive on challenges, whether it’s optimizing a cloud infrastructure, setting up CI/CD pipelines, or automating tedious tasks.
+•	Problem-Solver in Training: I thrive on challenges, whether it’s optimizing a cloud infrastructure, setting up CI/CD pipelines, or automating tedious tasks.
+
+
 
 
 🛠️ What I’m Working On
 Here’s a sneak peek into the kind of projects you’ll find here:
 
-    Infrastructure as Code (IaC): Automating cloud setups using AWS CloudFormation and Terraform.
+•	Infrastructure as Code (IaC): Automating cloud setups using AWS CloudFormation and Terraform.
 
-    Serverless Solutions: Experimenting with AWS Lambda, API Gateway, and DynamoDB for lightweight, scalable applications.
+•	Serverless Solutions: Experimenting with AWS Lambda, API Gateway, and DynamoDB for lightweight, scalable applications.
 
-    DevOps Automation: Creating pipelines with Azure DevOps, Dockerizing applications, and exploring Kubernetes for container orchestration.
+•	DevOps Automation: Creating pipelines with Azure DevOps, Dockerizing applications, and exploring Kubernetes for container orchestration.
 
-    Security & Reliability: Learning to design resilient architectures that prioritize security and fault tolerance.
+•	Security & Reliability: Learning to design resilient architectures that prioritize security and fault tolerance.
 
 
 
