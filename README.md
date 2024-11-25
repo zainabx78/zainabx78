@@ -34,7 +34,9 @@ I believe the future belongs to those who can simplify complexity, and cloud tec
 I’m always excited to learn from others and collaborate on cool projects. If you’re into cloud tech or have a project idea, don’t hesitate to reach out!
 
 LinkedIn:(https://www.linkedin.com/in/zainab-farooq-0b59531b9/)
+
 Email: Zainabfarooq002@gmail.com
+
 Thanks for stopping by—stay tuned for more projects as I continue building, learning, and sharing. Let’s create something amazing in the cloud! 🌥️✨
 
 
