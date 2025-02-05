@@ -1,7 +1,7 @@
 
 ![aws pic2](https://github.com/user-attachments/assets/1a965514-dd01-430b-9873-d812744e9277)
 
-Hey there! 👋 I'm Zainab.
+# Hey there! 👋 I'm Zainab.
 Welcome to my corner of GitHub! I'm on an exciting journey to becoming a Cloud Engineer, and this is where I showcase the skills, projects, and knowledge I've been building along the way. My passion for cloud technology began in 2023, right after I earned my bachelor's degree. Since then, I've been diving deep into the world of AWS and DevOps, learning, experimenting, and growing every step of the way.
 
 🚀 A Little About Me
@@ -16,7 +16,7 @@ Welcome to my corner of GitHub! I'm on an exciting journey to becoming a Cloud E
 
 
 
-🛠️ What I’m Working On
+# 🛠️ What I’m Working On
 Here’s a sneak peek into the kind of projects you’ll find here:
 
 •	Infrastructure as Code (IaC): Automating cloud setups using AWS CloudFormation and Terraform.
